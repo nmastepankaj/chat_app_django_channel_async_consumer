@@ -13,7 +13,7 @@ Note: This is a basic implementation and can be extended to include additional f
 First clone the github repository
 
 ```bash
-  git clone https://github.com/nmastepankaj/chat_app_django_channel_sync_consumer.git
+  git clone https://github.com/nmastepankaj/chat_app_django_channel_async_consumer.git
 ```
 
 Open the repository folder in any code editor (VS code) or open any terminal.
