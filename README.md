@@ -1,6 +1,6 @@
 # Django chat app using Django Channel Sync Consumer
 
-This module contains the implementation of a basic chat application using Django Channels and the SyncConsumer class.
+This module contains the implementation of a basic chat application using Django Channels and the AsyncConsumer class.
 
 Classes:
 - ChatConsumer: Handles the WebSocket connections for the chat app.
